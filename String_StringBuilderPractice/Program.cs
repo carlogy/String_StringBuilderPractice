@@ -3,7 +3,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        ConsecutiveCheck.checker();
+        //ConsecutiveCheck.checker();
+        DuplicateChecker.CheckDuplicates();
+
+        Console.ReadLine();
     }
 }
 
